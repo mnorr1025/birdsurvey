@@ -1,5 +1,5 @@
 # Analyze bird counts
-# All rights reserved
+# All rights reserved, licensed under MIT
 
 Read data file
 
